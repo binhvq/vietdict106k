@@ -1,2 +1,2 @@
 # vietdict106k
-Crawler from google translate
+Vietnamese Dictionary. Crawler from google translate
